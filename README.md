@@ -29,6 +29,10 @@ Demonstrate that by now you've used many different gems with Rails and this exer
 
 Demonstrate that by now you've used many different gems with Rails and this exercise will have you connect previous knowledge with new knowledge.
 
+## 🚀 Frontend Repo <a name="react-repo"></a>
+
+- [React App link](https://github.com/veronica365/hello-rails-frontend)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -107,7 +111,7 @@ Run test to see routes with:
 To run the project, execute the following command:
 
 ```sh
-  ./bin/dev
+  rails s
 ```
 
 <p align="right">(<a href="#readme-top"></a>)</p>
